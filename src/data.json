@@ -1,0 +1,1000 @@
+{
+  "profilePic": "./assets/yashi.jpg",
+  "stories": [
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"},
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"},
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"},
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"},
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"},
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"},
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"},
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"},
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"},
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"},
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"},
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"},
+    {"username": "yashi", "profilePic": "./assets/yashi.jpg"}
+  ],
+  "posts": [
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/100",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/101",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/102",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/103",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/104",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/105",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/106",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/107",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/108",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/109",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/110",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/111",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/112",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2
+    }
+  ],
+  "explorePosts": [
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/100",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/101",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/102",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "reel"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/103",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "video"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/104",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "reel"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/105",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "video"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/106",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/107",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/108",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "video"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/109",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/110",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "reel"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/111",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/112",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/100",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/101",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/102",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "reel"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/103",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "video"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/104",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "reel"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/105",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "video"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/106",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/107",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/108",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "video"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/109",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/110",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "reel"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/111",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/112",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/100",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/101",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/102",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "reel"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/103",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "video"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/104",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "reel"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/105",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "video"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/106",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/107",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/108",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "video"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/109",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/110",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "reel"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/111",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/112",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/100",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/101",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/102",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "reel"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/103",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "video"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/104",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "reel"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/105",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "video"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/106",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/107",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/108",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "video"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/109",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/110",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "reel"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/111",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    },
+    {
+      "username": "yashi",
+      "profilePic": "./assets/yashi.jpg",
+      "image": "https://picsum.photos/112",
+      "caption": "yo yo yo ",
+      "likes": 23,
+      "comments": 2,
+      "type": "image"
+    }
+  ],
+  "activity": [
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "1d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "1d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "2d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "1d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "2d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "1d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "2d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "1d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "2d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "1d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "1d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "2d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    },
+    {
+      "username": "Yashi",
+      "time": "3d",
+      "body": "Yashi just shared a reel for the first time in a while.",
+      "profilePic": "https://picsum.photos/112",
+      "image": "https://picsum.photos/112"
+    }
+  ],
+  "chats": [
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"},
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "38m",
+      "unread": 21,
+      "groupName": "annie pannie"
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 2,
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 1,
+      "message": ":')",
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 2,
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 1,
+      "message": ":')",
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 2,
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 1,
+      "message": ":')",
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 2,
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 1,
+      "message": ":')",
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 2,
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 1,
+      "message": ":')",
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 2,
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 1,
+      "message": ":')",
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 2,
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 1,
+      "message": ":')",
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 2,
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 1,
+      "message": ":')",
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 2,
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 1,
+      "message": ":')",
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 2,
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 1,
+      "message": ":')",
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 2,
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 1,
+      "message": ":')",
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 2,
+      "groupName": ""
+    },
+    {
+      "profiles": [
+        {"username": "Yashi", "profilePic": "https://picsum.photos/112"}
+      ],
+      "createdAt": "15m",
+      "unread": 1,
+      "message": ":')",
+      "groupName": ""
+    }
+  ]
+}
