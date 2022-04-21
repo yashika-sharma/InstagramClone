@@ -1,6 +1,6 @@
 import React, {useContext} from 'react';
 import {StyleSheet} from 'react-native';
-import {ThemeContext} from '../theme/context';
+import {ThemeContext} from '../../theme/context';
 import {
   Avatar,
   Box,
@@ -13,7 +13,7 @@ import {
 } from 'native-base';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
-import data from '../data.json';
+import data from '../../data.json';
 import {Path} from 'react-native-svg';
 
 const Profile = () => {
@@ -45,8 +45,6 @@ const Profile = () => {
         justifyContent="space-around"
         alignItems="center"
         paddingY="2">
-        <Avatar source={require('../assets/yashi.jpg')} size={99} />
-
         <Icon
           as={() => (
             <Ionicons
@@ -129,13 +127,7 @@ const Profile = () => {
               borderRadius="71"
               borderColor="rgb(217,217,217)"
               paddingY="1"
-              paddingX="1">
-              <Avatar
-                height={68}
-                width={68}
-                source={require('../assets/yashi.jpg')}
-              />
-            </Box>
+              paddingX="1"></Box>
             <Text
               lineHeight={21}
               numberOfLines={1}

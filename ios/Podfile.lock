@@ -269,7 +269,7 @@ PODS:
     - React-jsi (= 0.65.1)
     - React-perflogger (= 0.65.1)
   - React-jsinspector (0.65.1)
-  - react-native-pager-view (5.4.4):
+  - react-native-pager-view (5.4.9):
     - React-Core
   - react-native-safe-area-context (3.3.2):
     - React-Core
@@ -339,7 +339,7 @@ PODS:
     - React-perflogger (= 0.65.1)
   - RNGestureHandler (1.10.3):
     - React-Core
-  - RNScreens (3.7.2):
+  - RNScreens (3.10.2):
     - React-Core
     - React-RCTImage
   - RNSVG (12.1.1):
@@ -527,7 +527,7 @@ SPEC CHECKSUMS:
   React-jsi: 12913c841713a15f64eabf5c9ad98592c0ec5940
   React-jsiexecutor: 43f2542aed3c26e42175b339f8d37fe3dd683765
   React-jsinspector: 41e58e5b8e3e0bf061fdf725b03f2144014a8fb0
-  react-native-pager-view: f21658a2e12eced35ef998250375e4e4dc9b8487
+  react-native-pager-view: 311c10a4eead1be627cad59062aa059d8108b943
   react-native-safe-area-context: 5cf05f49df9d17261e40e518481f2e334c6cd4b5
   React-perflogger: fd28ee1f2b5b150b00043f0301d96bd417fdc339
   React-RCTActionSheet: 7f3fa0855c346aa5d7c60f9ced16e067db6d29fa
@@ -542,7 +542,7 @@ SPEC CHECKSUMS:
   React-runtimeexecutor: 85187f19dd9c47a7c102f9994f9d14e4dc2110de
   ReactCommon: eafed38eec7b591c31751bfa7494801618460459
   RNGestureHandler: a479ebd5ed4221a810967000735517df0d2db211
-  RNScreens: 0591543e343c7444ea1756b6265d81a4295922c9
+  RNScreens: d6da2b9e29cf523832c2542f47bf1287318b1868
   RNSVG: 551acb6562324b1d52a4e0758f7ca0ec234e278f
   RNVectorIcons: 31cebfcf94e8cf8686eb5303ae0357da64d7a5a4
   Yoga: aa0cb45287ebe1004c02a13f279c55a95f1572f4
@@ -550,4 +550,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: fb571c582cc1d9bd1e003ac100cd8049ca358ca8
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.11.2

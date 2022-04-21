@@ -1,7 +1,7 @@
 import React, {useContext} from 'react';
 import {StyleSheet, View} from 'react-native';
 import {Text} from 'native-base';
-import {ThemeContext} from '../theme/context';
+import {ThemeContext} from '../../theme/context';
 
 const GeneralChat = () => {
   const {colors} = useContext(ThemeContext);

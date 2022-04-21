@@ -42,7 +42,7 @@ const IconsForTab = ({focused, color, size}, route) => {
       <Avatar
         style={{borderWidth: focused ? 2 : 0}}
         size="sm"
-        source={require('../assets/yashi.jpg')}>
+        source={require('../assets/png/yashi.jpg')}>
         Yashika
       </Avatar>
     );
@@ -76,7 +76,7 @@ const RootNavigator = () => {
                 flex: 1,
                 marginHorizontal: 10,
               }}
-              source={require('../assets/insta.png')}
+              source={require('../assets/png/insta.png')}
             />
           );
         },

@@ -1,9 +1,9 @@
 import {Input, Icon} from 'native-base';
 import React, {useContext} from 'react';
 import {StyleSheet, View, ScrollView, Dimensions} from 'react-native';
-import {ThemeContext} from '../theme/context';
+import {ThemeContext} from '../../theme/context';
 import FontAwesome from 'react-native-vector-icons/FontAwesome5';
-import {ChatTabs} from '../navigation';
+import {ChatTabs} from '../../navigation';
 
 const windowHeight = Dimensions.get('window').height;
 

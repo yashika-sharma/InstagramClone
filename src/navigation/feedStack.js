@@ -23,7 +23,7 @@ const FeedStack = () => (
                   flex: 1,
                   marginHorizontal: 10,
                 }}
-                source={require('../assets/insta.png')}
+                source={require('../assets/png/insta.png')}
               />
             );
           },

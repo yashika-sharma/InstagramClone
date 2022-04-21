@@ -109,7 +109,7 @@ const Post = ({item}) => {
           fontSize="xl"
           numberOfLines={2}>
           <Text lineHeight="xs" fontWeight="bold" fontSize="xl">
-            {item.username}
+            {item.username + '  '}
           </Text>
 
           {item.caption}

@@ -1,7 +1,7 @@
 import React, {useContext} from 'react';
 import {StyleSheet, View} from 'react-native';
-import {ThemeContext} from '../theme/context';
-import data from '../data.json';
+import {ThemeContext} from '../../theme/context';
+import data from '../../data.json';
 import {Heading, Box, Avatar, Image, Text, ScrollView} from 'native-base';
 
 const Activity = () => {

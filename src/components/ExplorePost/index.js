@@ -1,6 +1,6 @@
 import React, {useContext} from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import {ThemeContext} from '../theme/context';
+import {ThemeContext} from '../../theme/context';
 import {Box, ScrollView, Input, Icon, FlatList, Image} from 'native-base';
 
 const ExplorePost = ({item}) => {

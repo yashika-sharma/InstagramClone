@@ -1,6 +1,6 @@
 import React, {useContext} from 'react';
 import {StyleSheet, View} from 'react-native';
-import {ThemeContext} from '../theme/context';
+import {ThemeContext} from '../../theme/context';
 import {Avatar, Text} from 'native-base';
 
 const Story = ({item}) => {

@@ -1,10 +1,10 @@
 import React, {useContext} from 'react';
 import {StyleSheet, Text, View, SafeAreaView} from 'react-native';
-import {ThemeContext} from '../theme/context';
+import {ThemeContext} from '../../theme/context';
 import {Box, ScrollView, Input, Icon, FlatList} from 'native-base';
 import FontAwesome from 'react-native-vector-icons/FontAwesome5';
-import data from '../data.json';
-import {ExplorePost} from '../components';
+import data from '../../data.json';
+import {ExplorePost} from '../../components';
 
 const Explore = () => {
   const {colors} = useContext(ThemeContext);

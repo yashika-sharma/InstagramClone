@@ -1,6 +1,6 @@
-export {default as Post} from './post';
-export {default as Story} from './story';
-export {default as AddComent} from './addComent';
-export {default as ExplorePost} from './explorePost';
-export {default as Reel} from './reel';
-export {default as Chat} from './chat';
+export {default as Post} from './Post';
+export {default as Story} from './Story';
+export {default as AddComent} from './AddComment';
+export {default as ExplorePost} from './ExplorePost';
+export {default as Reel} from './Reel';
+export {default as Chat} from './Chat';

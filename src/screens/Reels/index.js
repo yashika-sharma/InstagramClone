@@ -1,9 +1,9 @@
 import React, {useContext} from 'react';
 import {StyleSheet, Text, View, SafeAreaView} from 'react-native';
-import {ThemeContext} from '../theme/context';
+import {ThemeContext} from '../../theme/context';
 import PagerView from 'react-native-pager-view';
-import {Reel} from '../components';
-import data from '../data.json';
+import {Reel} from '../../components';
+import data from '../../data.json';
 
 const Reels = () => {
   const {colors} = useContext(ThemeContext);

@@ -1,6 +1,6 @@
 import React, {useContext} from 'react';
 import {StyleSheet, View} from 'react-native';
-import {ThemeContext} from '../theme/context';
+import {ThemeContext} from '../../theme/context';
 import {Avatar, Box, Input, Text} from 'native-base';
 
 const AddComment = () => {
@@ -9,7 +9,7 @@ const AddComment = () => {
   return (
     <Box style={styles(colors).container}>
       <Box flexDirection="row" alignItems="center" marginBottom="1">
-        <Avatar size={38} source={require('../assets/yashi.jpg')} />
+        <Avatar size={38} source={require('../../assets/png/yashi.jpg')} />
         <Input
           fontSize="lg"
           placeholder="Add a comment..."

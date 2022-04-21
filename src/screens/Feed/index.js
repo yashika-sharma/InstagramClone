@@ -1,9 +1,9 @@
 import {ScrollView} from 'native-base';
 import React, {useContext} from 'react';
 import {StyleSheet} from 'react-native';
-import {ThemeContext} from '../theme/context';
-import data from '../data.json';
-import {Post, Story} from '../components';
+import {ThemeContext} from '../../theme/context';
+import data from '../../data.json';
+import {Post, Story} from '../../components';
 
 const Feed = () => {
   const {colors} = useContext(ThemeContext);
